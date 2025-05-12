@@ -11,12 +11,20 @@
 			"file": "Physics2DPlatformerSDL.sublime-project",
 			"settings":
 			{
-				"buffer_size": 602,
+				"buffer_size": 603,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					4,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAWwIAAAAAAAAAAAAAWwIAAAAAAABbAgAAAAAAAGcCAAB7CgkiZm9sZGVycyI6CglbCgkJewoJCQkicGF0aCI6ICJiaW4vLi4iCgkJfQoJXSwKCSJidWlsZF9zeXN0ZW1zIjoKCVsKCQl7CgkJCSJuYW1lIjogIkJ1aWxkIERlYnVnIiwKCQkJIndvcmtpbmdfZGlyIjogIiR7cHJvamVjdF9wYXRofSIsCgkJCSJjbWQiOiBbImcrKyAtYyBzcmMvKi5jcHAgLXN0ZD1jKysxNCAtbTY0IC1nIC1XYWxsIC1JIGluY2x1ZGUgJiYgZysrICoubyAtMCBiaW4vZGVidWcvbWFpbiAtbFNETDJtYWluIC1sU0RMMiAtbFNETDJfaW1hZ2UgJiYgLi9iaW4vZGVidWcvbWFpbiJdLAoJCQkic2VsZWN0b3IiOiAic291cmNlLmMrKyIsCgkJCSJzaGVsbCI6IHRydWUKCQl9LAoJCXsKCQkJIm5hbWUiOiAiQnVpbGQgUmVsZWFzZSIsCgkJCSJ3b3JraW5nX2RpciI6ICIke3Byb2plY3RfcGF0aH0iLAoJCQkiY21kIjogWyJnKysgLWMgc3JjLyouY3BwIC1zdGQ9YysrMTQgLW02NCAtTzMgLVdhbGwgLUkgaW5jbHVkZSAmJiBnKysgKi5vIC1vIGJpbi9yZWxlYXNlL21haW4gLXMgLWxTREwybWFpbiAtbFNETDIgLWxTREwyX2ltYWdlICYmIC4vYmluL3JlbGVhc2UvbWFpbiJdLAoJCQkic2VsZWN0b3IiOiAic291cmNlLmMrKyIsCgkJCSJzaGVsbCI6IHRydWUKCQl9CgldCn0",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAgAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -122,15 +130,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 602,
+						"buffer_size": 603,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								602,
-								602
+								603,
+								603
 							]
 						],
 						"settings":
